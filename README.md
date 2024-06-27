@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/gVK745a4Vaur/assembly" height="30" alt="asm logo"  />
+  <img src="https://media.licdn.com/dms/image/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=PFy2LQAuefuy-w5fNVWMy_qO6OtNhLYS3ApqYMRXoyo" height="30" alt="asm logo"  />
 </div>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
