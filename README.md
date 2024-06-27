@@ -11,7 +11,7 @@
 </div>
 
 <br clear="both">
-
+<h3>Tech:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -23,14 +23,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=PFy2LQAuefuy-w5fNVWMy_qO6OtNhLYS3ApqYMRXoyo" height="30" alt="asm logo"  />
+  <img src="https://cdn.simpleicons.org/assemblyscript" height="30" alt="asm logo"  />
 </div>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
 <br clear="both">
-
+<h3>Social:</h3>
 <div align="left">
   <a href="https://www.instagram.com/antomfdez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
