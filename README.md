@@ -8,7 +8,7 @@
 </div>
 
 <br clear="both">
-<h3>Actual tech:</h3>
+<h3>Current Skills:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
