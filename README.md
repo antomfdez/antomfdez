@@ -6,17 +6,17 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black&style=for-the-badge" height="40" alt="zig logo"  />
 </div>
 
