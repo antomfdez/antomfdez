@@ -1,12 +1,12 @@
-<div align="center">
-  <img height="500" src="https://hackernoon.com/images/f2px36fy.gif"  />
+<div align="left">
+  <img height="600" src="https://hackernoon.com/images/f2px36fy.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
@@ -24,13 +24,13 @@
 
 ###
 
-<h2 align="center">Contact</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://discordapp.com/users/1004139554682441779" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
